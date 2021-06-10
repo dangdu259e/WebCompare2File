@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../static/css/style_index.css">
+
+</head>
+
+<body>
+<header>
+    <h2>Ứng dụng so sánh 2 FILE</h2>
+</header>
+
+<div class="body">
+    <form action="http://127.0.0.1:5000/uploader" method="POST"
+          enctype="multipart/form-data">
+        <div class="body_left">
+            <p> Bạn hãy import file thứ 1:</p>
+            <input type="file" name="file1" id="file1" multiple>
+
+            <p> Bạn hãy import file thứ 2:</p>
+            <input type="file" name="file2" id="file2" multiple>
+            <br>
+
+            <button class="btn_submit" type="submit">Submit</button>
+        </div>
+    </form>
+
+    <div class="body_right">
+        <h1>Hướng dẫn sử dụng</h1>
+        <p>Bạn cần phải import 2 file vào bằng các nút <b> Choose Files</b> ở bên trái</p>
+        <p>Sau đó, bạn hãy bấm nút <b> Submit </b> để chương trình hoạt động</p>
+    </div>
+</div>
+
+
+<script type="text/javascript" src="myScript.js"></script>
+
+</body>
+
+</html>
