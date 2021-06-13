@@ -10,3 +10,5 @@
 ### Thành viên nhóm
 ###### 1) [Đặng Trung Du](https://www.facebook.com/t.dudang/)
 ###### 2) [Nguyễn Anh Thư](https://www.facebook.com/profile.php?id=100017848988200)
+
+### [Báo cáo môn học](https://drive.google.com/drive/folders/1JZ75bM0OzWRbvo5kWsHWZkyvEMfgQXeV?usp=sharing) 
